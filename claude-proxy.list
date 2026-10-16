@@ -1,0 +1,22 @@
+# Claude 主站
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,claudeusercontent.com
+DOMAIN-SUFFIX,clau.de
+
+# MCP 连接器
+DOMAIN-SUFFIX,claudemcpclient.com
+DOMAIN-SUFFIX,claudemcpcontent.com
+
+# 官网资源和统计
+DOMAIN,servd-anthropic-website.b-cdn.net
+DOMAIN,cdn.usefathom.com
+
+# 客服聊天（Intercom）
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomcdn.com
+
+# 订阅付款（Stripe）
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,stripe.network
